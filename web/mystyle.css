@@ -1,0 +1,84 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 17, 2025, 12:58:43 PM
+    Author     : ADMIN
+*/
+
+.mer-logo{
+    width: 30px;
+    height:30px;
+}
+
+.bg2{
+
+    background-color: #011A38;
+}
+
+.footer{
+    background-color: #011A38;
+}
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
+
+
+body {
+    
+}
+
+.container2 {
+        height: 100vh;
+    margin: 0;
+    padding: 20px;
+    width: 500px;
+    
+}
+
+.login-item{
+    
+    margin-bottom: 20px;
+    height: 60px
+}
+
+.input-login{
+    height: 50px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.login-submit{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-submit{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #333; 
+    color: white;
+    border: none;
+}
+
+.login-policy{
+     color: rgba(0, 0, 0, 0.5);
+}
+
+.login-container{
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+    height: 100vh;  
+}
+
